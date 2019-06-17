@@ -6,7 +6,7 @@ Este é o passo-a-passo de como subir um chatbot em uma página web usando *Wats
 
 Neste momento subiremos um workspace no Watson Assistant, isto é, um chatbot com conhecimento sobre pizza!!
 
-### 1. [![Deploy Watson Assistant](https://bluemix.net/deploy/button.png)](https://console.bluemix.net/devops/setup/deploy?repository=https://github.com/victorshinya/chatbot-deployer&chatbotName=Chatbot&chatbotWorkspaceURL=https://github.com/victorshinya/chatbot-deployer/raw/master/data/workspace.json)
+### 1. [![Deploy Watson Assistant](https://bluemix.net/deploy/button.png)](https://console.bluemix.net/devops/setup/deploy?repository=https://github.com/victorshinya/chatbot-deployer&chatbotName=Chatbot&chatbotWorkspaceURL=https://github.com/sergiogama/chatbot_template)
 
 ### 2. Deploy do Workspace. Aqui você deve clicar no quadrado do *Delivery Pipeline* e criar a sua API-KEY.
 ![Deploy Watson Assistant Workspace](https://github.com/ibm-developer-br/tdc-bot/raw/master/print/tutorial-chatbot-01.02.png)
